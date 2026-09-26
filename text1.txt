@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-HI BYE!
-=======
-ryan is sincere student
->>>>>>> 9ed9e4a (text1.txt)
+Hi Bye!
