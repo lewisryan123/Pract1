@@ -1,7 +1,2 @@
-*.log
-*.tmp
-node_modules/
-__pycache__/
-*.log
-*.tmp
+ignore_test.txt
 temp/
